@@ -1,4 +1,9 @@
+# java compile files
 *.class
+
+# eclipse files
+#.project
+#.settings
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
